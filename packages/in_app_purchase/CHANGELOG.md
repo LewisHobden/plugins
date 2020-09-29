@@ -1,4 +1,4 @@
-## Unreleased
+## 0.3.4+10
 * Fixed typo 'verity' for 'verify'. 
 
 ## 0.3.4+9
