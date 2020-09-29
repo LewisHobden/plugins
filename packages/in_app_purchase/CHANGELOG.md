@@ -1,3 +1,6 @@
+## Unreleased
+* Fixed typo 'verity' for 'verify'. 
+
 ## 0.3.4+9
 
 * [iOS] Fixed: purchase dialog not showing always.
